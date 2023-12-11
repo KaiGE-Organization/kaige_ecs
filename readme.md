@@ -1,14 +1,4 @@
-[//]: <img src="docs/book/splash.png" alt="Legion ECS" /> 
-
-[//]: ffd
-[//]: ` [![Build Status][build_img]][build_lnk] [![Crates.io][crates_img]][crates_lnk] [![Docs.rs][doc_img]][doc_lnk] `
-
-[//]: ` [build_img]: https://github.com/TomGillen/legion/workflows/CI/badge.svg`
-[//]: `[build_lnk]: https://github.com/TomGillen/legion/actions`
-[//]: `[crates_img]: https://img.shields.io/crates/v/legion.svg`
-[//]: `[crates_lnk]: https://crates.io/crates/legion`
-[//]: `[doc_img]: https://docs.rs/legion/badge.svg`
-[//]: `[doc_lnk]: https://docs.rs/legion`
+[//]: # (Here goes the badges and banner; see the legion repo to re-add these.)
 
 ## Getting Started
 
