@@ -1,5 +1,9 @@
 [//]: # (Here goes the badges and banner; see the legion repo to re-add these.)
 
+> [!IMPORTANT]   
+> Currently the links to the docs will go to Legion's [docs.rs](https://docs.rs/legion/).
+
+
 ## Getting Started
 
 ### Worlds
@@ -7,7 +11,7 @@
 [Worlds](https://docs.rs/legion/latest/legion/world/struct.World.html) are collections of [entities](https://docs.rs/legion/latest/legion/struct.Entity.html), where each entity can have an arbitrary collection of [components](https://docs.rs/legion/latest/legion/storage/trait.Component.html) attached.
 
 ```rust
-use legion::*;
+use kaige_ecs::*;
 let world = World::default();
 ```
 
